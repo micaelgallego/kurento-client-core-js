@@ -1,5 +1,5 @@
 {
-  "name": "kurento-client-core",
+  "name": "kurento-client-core-js",
   "version": "5.0.0",
   "description": "Base classes for kurento media server api",
   "homepage": "http://www.kurento.com",
@@ -24,8 +24,5 @@
   ],
   "dependencies": {
     "inherits": "^2.0.1"
-  },
-  "peerDependencies": {
-    "kws-media-api": "^5.0.0-dev"
   }
 }
